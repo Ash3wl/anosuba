@@ -37,5 +37,17 @@ null,
 {"id":35,"atypeId":1,"description":"Grants Facination resist.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":9,"value":1}],"iconIndex":0,"name":"Facination Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":10000},
 {"id":36,"atypeId":1,"description":"Grants Sleep resist.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":10,"value":1}],"iconIndex":0,"name":"Sleep Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":10000},
 {"id":37,"atypeId":1,"description":"Grants Heavy resist.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":13,"value":1}],"iconIndex":0,"name":"Heavy Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":10000},
-{"id":38,"atypeId":1,"description":"Grants Bind resist.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":16,"value":1}],"iconIndex":0,"name":"Bind Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":10000}
+{"id":38,"atypeId":1,"description":"Grants Bind resist.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":16,"value":1}],"iconIndex":0,"name":"Bind Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":10000},
+{"id":39,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":40,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":41,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":42,"atypeId":1,"description":"Grants the ability to attack twice a turn","etypeId":4,"traits":[{"code":34,"dataId":0,"value":1}],"iconIndex":147,"name":"Twin Stars","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":43,"atypeId":1,"description":"Grants immunity to shadow based damage to the entire\nparty while held by a thief.","etypeId":4,"traits":[],"iconIndex":147,"name":"Ring of Shadows","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":44,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":45,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":46,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":47,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":48,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":49,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":50,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
